@@ -1,4 +1,4 @@
-package com.example.guidedexercise3;
+package com.example.IntentandListViewTask;
 
 
 import android.app.Activity;
@@ -8,10 +8,6 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import androidx.annotation.NonNull;
-
-import com.example.guidedexercise3.R;
 
 public class AndroidAdapter extends ArrayAdapter<String> {
     private final Activity context;

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.guidedexercise3"
+    namespace = "com.example.IntentandListViewTask"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.guidedexercise3"
+        applicationId = "com.example.IntentandListViewTask"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

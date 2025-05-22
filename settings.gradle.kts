@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GuidedExercise3"
+rootProject.name = "IntentandListViewTask"
 include(":app")
  

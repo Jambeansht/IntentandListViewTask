@@ -1,4 +1,4 @@
-package com.example.guidedexercise3;
+package com.example.IntentandListViewTask;
 
 import org.junit.Test;
 
